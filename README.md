@@ -22,7 +22,8 @@ This project showcases a coffee brand’s homepage with product display, navigat
 ---
 
 ## 📸 Screenshots
-![Coffee Website Screenshot](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6a6dd4fd-41e5-4e0c-ae57-941c7986ee25" />
+![Coffee Website Screenshot](<<img width="1920" height="1020" alt="screenshot" src="https://github.com/user-attachments/assets/50d7dcc1-105c-41f1-8fa9-73b3b151b347" />
+>
 )
 
 ---
